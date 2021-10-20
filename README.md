@@ -12,8 +12,8 @@ Teşekkürler: Öner Morkoç Onur Dursun
 
 4)Terminal açın ve 42header-master dizine gidiniz
 
-5) zsh kur.sh  yazıp enterlayın
+5)zsh kur.sh  yazıp enterlayın
 
 6)vim editörünü acınız ve esc tusuna basınız
 
-7) :Baslik  yazıp enterlayın
+7):Baslik  yazıp enterlayın
