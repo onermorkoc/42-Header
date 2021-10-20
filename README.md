@@ -10,7 +10,7 @@ Teşekkürler: Öner Morkoç Onur Dursun
 
 3)Dosyayı arşivden cıkarınız
 
-4)Terminal açın ve 42header-master dizine gidiniz
+4)Terminal açın ve 42header-master-main dizine gidiniz
 
 5)zsh kur.sh  yazıp enterlayın
 
