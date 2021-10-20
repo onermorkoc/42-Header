@@ -36,8 +36,8 @@ let s:types		= {
 function! s:filetype()
 	let l:f = s:filename()
 
-	let s:start	= '#'
-	let s:end	= '#'
+	let s:start	= '/*'
+	let s:end	= '*/'
 	let s:fill	= '*'
 
 	for type in keys(s:types)
