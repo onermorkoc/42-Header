@@ -1,3 +1,5 @@
+<img src="https://github.com/onermorkoc/42-Header/blob/main/images/Screenshot.png">
+
 # 42 Header
 
 42 Okullarında kullanılan header'ın kurulumunu basitleştirilmiş ve türkçeleştirilmiş halidir.
