@@ -90,6 +90,8 @@ function! s:mail()
 	let l:mail = $MAIL
 	if strlen(l:mail) == 0
 		let l:mail = "42istanbul.com.tr"
+	fi
+		let l:mail = $USER . "@student.42.fr"
 	endif
 	return l:mail
 endfunction
