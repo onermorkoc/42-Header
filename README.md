@@ -1,19 +1,20 @@
 # 42header
 
-Teşekkürler: Öner Morkoç Onur Dursun
+42 Okullarında kullanılan header'ın kurulumunu basitleştirilmiş ve türkçeleştirilmiş halidir.
 
-# Kurulum Talimatları
+# Hazırlayanlar
 
-1)Yeşil code butonuna tıklayınız
+[Öner Morkoç](https://github.com/onermorkoc)</br>
+[Onur Dursun](https://github.com/onur55-tr)
 
-2)Dowload zip ile dosyayı indiriniz
+# Kurulum talimatları
 
-3)Dosyayı arşivden cıkarınız
+1)zsh kur.sh
 
-4)Terminal açın ve 42header-master-main dizine gidiniz
+2)Ardından vim editörünü acın ve esc tusuna basın ve :Baslik yazıp enterlayın
 
-5)zsh kur.sh  yazıp enterlayın
+# Not
 
-6)vim editörünü acınız ve esc tusuna basınız
+Linuxlarda kurabilmek içis zsh yüklenmesi gerekir
 
-7):Baslik  yazıp enterlayın
+1)sudo apt install zsh -y
