@@ -1,4 +1,4 @@
-# 42header
+# 42 Header
 
 42 Okullarında kullanılan header'ın kurulumunu basitleştirilmiş ve türkçeleştirilmiş halidir.
 
